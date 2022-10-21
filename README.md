@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning full stack java course with 20+tools
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me prakashpradhan11122@gmail.com
 
 <!---
 Prakash11122/Prakash11122 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
